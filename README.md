@@ -38,3 +38,7 @@ pip install -r requirements.txt
 # Build the ROS2 package (if using ROS2)
 colcon build
 source install/setup.bash
+
+
+## Demo
+![Object Detection Demo](demo.jpg)
